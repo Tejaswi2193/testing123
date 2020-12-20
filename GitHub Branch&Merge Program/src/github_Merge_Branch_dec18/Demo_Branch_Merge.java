@@ -10,6 +10,10 @@ public class Demo_Branch_Merge
 	{
 		System.out.println("m2----Demo");
 	}
+	public void m3()
+	{
+		System.out.println("m3----Demo");
+	}
 	
 public static void main(String[] args) 
 {
